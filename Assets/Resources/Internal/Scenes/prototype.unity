@@ -837,8 +837,8 @@ MonoBehaviour:
   - {fileID: 101899536}
   spawnValues: {x: 3, y: 0, z: 0}
   spawnWait: 0
-  spawnMostWait: 6
-  spawnLeastWait: 4
+  spawnMostWait: 10
+  spawnLeastWait: 6
   startWait: 1
   stop: 0
 --- !u!4 &252137011
@@ -4119,8 +4119,8 @@ MonoBehaviour:
   - {fileID: 101899536}
   spawnValues: {x: 3, y: 0, z: 0}
   spawnWait: 0
-  spawnMostWait: 6
-  spawnLeastWait: 4
+  spawnMostWait: 10
+  spawnLeastWait: 6
   startWait: 1
   stop: 0
 --- !u!4 &1651509040
